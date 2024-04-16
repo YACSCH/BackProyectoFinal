@@ -1,0 +1,12 @@
+
+Started GET /api/v1/favorite/user/1 for :: ::ffff:127.0.0.1 at Mon Mar 25 2024 22:13:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1083 ms Request ID: [e732ee03-eef3-4696-847f-c922f5814eb5]
+
+Started POST /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Mar 25 2024 22:13:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1032 ms Request ID: [edec0507-045b-4376-9b3f-c70514598f5a]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Mon Mar 25 2024 22:14:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 911 ms Request ID: [26228086-0046-4a90-8565-f1e9482f735a]

@@ -1,0 +1,1742 @@
+
+Completed: 304 message:  Time response: 3508 ms Request ID: [5a8c0059-8383-4d20-857e-2ea8deb6226c]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 20:00:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 268 ms Request ID: [18966173-5436-4521-9e2a-86fc67506e30]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:00:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [96b8090e-b5a1-47c0-ae8a-b1ef018b5719]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:41:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 20:41:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:41:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 979 ms Request ID: [2f490d90-e251-483d-a30b-744d55ab65d1]
+
+Completed: 304 message:  Time response: 982 ms Request ID: [c65aae30-8536-4f48-8a05-91501365863c]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 20:41:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:41:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [7e182d2b-49c1-4735-8329-0077e10752fb]
+
+Completed: 304 message:  Time response: 193 ms Request ID: [e50618e6-fbae-418f-bb25-2f4ee5234e1f]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:41:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 196 ms Request ID: [b9a8b321-2070-4349-812b-1e691ecb55d1]
+
+Completed: 304 message:  Time response: 196 ms Request ID: [a17607e5-43fe-43e3-b6d3-f2a6fd1ceede]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:41:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [8b34a6af-c180-4133-9d04-48a1c66f826b]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 20:41:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 1135 ms Request ID: [ee84332d-dc76-4359-a010-d82565ba0203]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 20:41:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 20:41:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 20:41:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:41:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [edd6773e-1402-42e8-8a8b-718445103ac8]
+
+Completed: 200 message:  Time response: 244 ms Request ID: [a98dfae1-ab3f-4870-b900-5898c49db52b]
+
+Completed: 304 message:  Time response: 1115 ms Request ID: [4b8b4077-85ec-4eca-83ff-bbe88ef7f25d]
+
+Completed: 304 message:  Time response: 1116 ms Request ID: [bbd1048e-8c46-42cd-a115-51af13fb0a14]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 20:42:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:42:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1056 ms Request ID: [cd6e43e1-bf5e-4076-9da0-9193bb853918]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:42:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [9af8d797-a9f7-4779-ae47-589fce665b86]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:42:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 212 ms Request ID: [6994b9e9-8b6c-424f-8d77-d773204cdec0]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 20:42:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 210 ms Request ID: [6468788a-5f80-4c3f-9ab1-1d581c4c5503]
+
+Completed: 201 message:  Time response: 1881 ms Request ID: [da1fb84e-0f66-4b56-9603-2f7d7e024aad]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 20:42:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 290 ms Request ID: [8843df4a-63bc-4f6b-a01e-45dada24c24f]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:42:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [2e78d496-c616-4aa1-a741-0acfd8e472ee]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:42:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 992 ms Request ID: [cf3cedea-50f0-459e-b918-5ccee6ec7a74]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:42:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 237 ms Request ID: [f728a6a5-b9d7-4b9b-8973-1ce771f7c851]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:42:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [1cb1e860-6419-4595-960b-3642c6a325e0]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:42:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [30126093-c9fd-4349-95fe-03d39b29c187]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:43:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [c8c1d44f-bccb-4588-8d52-aafc4075a3ac]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:43:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3633 ms Request ID: [e8c95938-cf57-4865-a9d5-f8dbfed4a042]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:43:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 255 ms Request ID: [11e886d8-6ddc-48b3-8c90-c2b956e13137]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 20:43:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [d4ad6f83-314e-45b4-87a2-21e11c2b4b3f]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:51:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4649 ms Request ID: [1f064e57-6bda-4e29-aff8-5fcd3908b98b]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:52:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 302 ms Request ID: [a626e3ce-9201-439b-9c08-db77bdad0718]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:52:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 306 ms Request ID: [895be906-15a1-4fcc-9ae0-de4fda2573ff]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:52:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 20:52:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [01d43e68-91c2-439f-9749-21ef3229ac9d]
+
+Completed: 304 message:  Time response: 306 ms Request ID: [c88c39f3-5028-4c12-9ff2-25187fb73349]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:55:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4788 ms Request ID: [79ed7651-326c-402d-8048-ecf9b4b2b20f]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:55:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 20:55:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [a82ec6ce-f74d-4029-b17c-15e3ab8deb8d]
+
+Completed: 304 message:  Time response: 254 ms Request ID: [b40d4182-1ae6-4131-869e-dd7bf635ad4a]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:55:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1399 ms Request ID: [89c57b1e-4bcc-4ee2-8e85-25559fe56d1d]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 20:57:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3074 ms Request ID: [c428c910-958a-4fb7-a3a6-abe297a8c3ca]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:00:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4607 ms Request ID: [44218596-430e-4c1c-987e-6ee95bc73fcc]
+
+Started GET /api/v1/favorite/user/null for :: ::1 at Sun Apr 14 2024 21:00:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:00:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:00:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1349 ms Request ID: [1e167728-40c1-41db-a263-6ba113c80543]
+
+Completed: 304 message:  Time response: 1347 ms Request ID: [70860fb4-93b2-4f71-8cac-fc78cb3da29d]
+
+Completed: 400 message:  Time response: 1355 ms Request ID: [8f427f4e-0557-4fe6-9dd1-0f38652b2d55]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:00:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:00:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/favorite/user/null for :: ::1 at Sun Apr 14 2024 21:00:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 214 ms Request ID: [54be6046-b78a-4488-a84c-746a337fe62d]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:00:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 220 ms Request ID: [72ac26cc-385f-486a-a131-5c06aa898060]
+
+Completed: 304 message:  Time response: 211 ms Request ID: [1a13001d-f6c0-4587-a17f-160e0e552aea]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:00:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 234 ms Request ID: [0dd4b595-1d2d-48ea-bad0-32caacf519c7]
+
+Completed: 400 message:  Time response: 1081 ms Request ID: [172bc422-6611-4bad-aa78-3ad857c0380f]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 21:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 418 ms Request ID: [fed2a9e1-cc4d-4467-b99e-8c32e8a28945]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 21:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 21:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:00:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [983d090c-effe-4d95-9bd2-3e4a7ccf8de3]
+
+Completed: 304 message:  Time response: 211 ms Request ID: [018ef160-1101-445a-b75c-c8b44d7001df]
+
+Completed: 304 message:  Time response: 257 ms Request ID: [c8d9acba-3964-4f12-a84c-8b85dd0fa7ee]
+
+Completed: 200 message:  Time response: 977 ms Request ID: [3418b1f0-68c2-4c77-9893-547729841d91]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:00:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 244 ms Request ID: [14a8162e-346a-4b9f-b7c3-342075213c7d]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:00:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 21:00:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [abc42463-72ac-4fa4-a445-fb51c4b3d055]
+
+Completed: 304 message:  Time response: 236 ms Request ID: [542358af-8478-4305-b9c3-c764958becb2]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:03:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/favorite/user/null for :: ::1 at Sun Apr 14 2024 21:03:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:03:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 3449 ms Request ID: [fc3eb14b-e98d-4720-b5c0-e0477a36f6ce]
+
+Completed: 304 message:  Time response: 3451 ms Request ID: [933fdedd-d04f-42a6-a1cf-35cbf2e216a0]
+
+Started GET /api/v1/favorite/user/null for :: ::1 at Sun Apr 14 2024 21:03:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:03:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 257 ms Request ID: [89e4a7fd-6dd8-4320-a02d-410e73e66bce]
+
+Completed: 304 message:  Time response: 4425 ms Request ID: [95fa7b3e-054b-402e-b388-7fcea6a35a50]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:03:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 973 ms Request ID: [bc63cca1-e15f-435f-8df5-89e3b3ef5e08]
+
+Completed: 304 message:  Time response: 216 ms Request ID: [aacd1a77-5fc1-4df1-926f-979c089f064b]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:03:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:03:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 213 ms Request ID: [4ccb142e-da60-47b8-a998-d2a0093b8d91]
+
+Completed: 304 message:  Time response: 311 ms Request ID: [0605c8e6-ce48-4f97-b632-48906241076c]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 21:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 307 ms Request ID: [a14316ee-30d1-4389-84bb-16d21b6fad71]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 21:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 21:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:03:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [56ed3186-3bc4-444a-ae5a-b97752df7993]
+
+Completed: 304 message:  Time response: 269 ms Request ID: [89526efe-89e7-4e00-9067-f6f8de336491]
+
+Completed: 304 message:  Time response: 1020 ms Request ID: [c0e154c9-2450-4ccc-8fe3-f9f230188b84]
+
+Completed: 304 message:  Time response: 1110 ms Request ID: [bf4a9799-dc6b-4d32-b02b-563188d15a45]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:04:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 302 ms Request ID: [36500323-adbe-464c-8b72-e1b642d14751]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:04:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 21:04:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [7f9b4cc7-915e-400f-bc7c-d0e9fbb63ea0]
+
+Completed: 304 message:  Time response: 258 ms Request ID: [c55b78c9-ae87-4dbc-9e8f-85fe78ae5f36]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 21:04:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 886 ms Request ID: [ffb26ed0-d7dc-4d6d-ac31-f61f13811607]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:04:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 302 ms Request ID: [519b06a3-9a0b-4ccf-961e-5ff672e2e10e]
+
+Started PUT /api/v1/cart/increase/4 for :: ::1 at Sun Apr 14 2024 21:04:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":151,"cart_id":110}
+Completed: 201 message:  Time response: 1588 ms Request ID: [8eb8c1b3-84a6-4b2d-ada1-0abb13c22873]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:04:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 203 ms Request ID: [1ee5decf-4a64-462f-9491-050a1b1b24f8]
+
+Started PUT /api/v1/cart/increase/4 for :: ::1 at Sun Apr 14 2024 21:04:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":151,"cart_id":110}
+Completed: 201 message:  Time response: 207 ms Request ID: [7ba441d6-fc5c-4e09-9eac-6105ee89b028]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:04:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 197 ms Request ID: [2433374f-70db-44d5-8663-69e97c4e5967]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 21:05:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:05:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 434 ms Request ID: [1fa35bfc-b7d1-4fc3-b093-be60307872a3]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:05:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 242 ms Request ID: [8d0d5e51-7237-4d58-a92f-7718cbbeddac]
+
+Completed: 304 message:  Time response: 3213 ms Request ID: [7f217672-8ffd-4245-9ef2-b1f5fabf6db9]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:05:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 195 ms Request ID: [397cafff-9cba-4986-93c5-47a5125ec70b]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:05:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [43c8e319-1a28-4a4e-a2e0-67184b0a8fae]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:05:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [6dbaa057-89a9-4c41-a5a5-5cc9291d4333]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:19:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:19:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3226 ms Request ID: [23e43791-dd51-424b-9967-16b8df755d8c]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:19:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3227 ms Request ID: [3b667552-a910-4a0c-b76c-9d878ae37bf0]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 21:19:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:19:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [1809b992-f09b-4bfd-b1f0-607c0447d33e]
+
+Completed: 304 message:  Time response: 194 ms Request ID: [952dfa48-d395-45cc-bd0f-a63e830ab9ec]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:19:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 201 ms Request ID: [d62d0cbc-2a80-49db-a1ba-659bd7748451]
+
+Completed: 304 message:  Time response: 200 ms Request ID: [5e6b6ff3-2d7f-4889-8220-f9e1d0d3a10b]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:19:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [acf0b945-b6d4-4d76-84a3-ca76045b0490]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 21:19:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 1107 ms Request ID: [7c1257bf-7fdf-4b5c-967d-0c3074a4eb2e]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 21:19:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:19:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 21:19:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:19:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 0 ms Request ID: [c74db931-0226-47be-b0d0-fc5af0406bed]
+
+Completed: 304 message:  Time response: 197 ms Request ID: [05029d3c-6636-46bc-ae5c-2a9cf356d385]
+
+Completed: 304 message:  Time response: 1192 ms Request ID: [f5886baf-8973-45be-aee4-47dd3138904c]
+
+Completed: 200 message:  Time response: 1195 ms Request ID: [a24fab94-f612-4249-8079-bae758b5a365]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:19:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [f2192c2d-4a12-4834-a92b-e1669f817294]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:20:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 314 ms Request ID: [5307ac5a-96bb-496f-9a42-e28e2a3d7289]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:20:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 21:20:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [be858860-bfe5-4d90-96e7-85d775b5b0ba]
+
+Completed: 304 message:  Time response: 305 ms Request ID: [5c3daa1c-8d4e-41a8-b30e-a6e3d934a668]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 21:27:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 3855 ms Request ID: [8588137d-d015-45a0-be12-29a2d49d37d6]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:27:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 241 ms Request ID: [90611a98-c929-40f5-8d65-62d191eaa6fc]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 21:27:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 1267 ms Request ID: [226f5fe7-f507-4bff-85de-032ba01c97aa]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:27:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 242 ms Request ID: [34b8f9e2-1fa3-4525-8dcc-dbbc8b7bf10d]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 21:28:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:28:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1056 ms Request ID: [e5864536-4b98-4dfc-a68f-2ffbedc0f8cf]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:28:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 1280 ms Request ID: [28116dfa-c333-4343-9b48-51bea637e317]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:28:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 212 ms Request ID: [f0782239-1933-4617-8f04-d46cba4b4d18]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:28:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 211 ms Request ID: [e70889cf-01b6-406d-8d9e-411eaa2e4faf]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:28:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 240 ms Request ID: [2782db9b-044e-459b-bcac-e80daf125837]
+
+Completed: 304 message:  Time response: 211 ms Request ID: [ba223068-926f-4d41-b974-c9a2ef7f478d]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:28:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [95553728-d958-44e5-82a9-e816fdd6701f]
+
+Started POST /api/v1/review for :: ::1 at Sun Apr 14 2024 21:28:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"product":4,"user":13,"rating":5,"coments":"aaaa"}
+Completed: 201 message:  Time response: 1502 ms Request ID: [1993daf0-d63b-4089-af34-8e7a544885e6]
+
+Started GET /api/v1/products/category/5 for :: ::1 at Sun Apr 14 2024 21:28:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1466 ms Request ID: [8e33ac2a-5602-402d-9853-c5059c149b5c]
+
+Started GET /api/v1/products/category/5 for :: ::1 at Sun Apr 14 2024 21:28:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 258 ms Request ID: [55eba12f-0f2d-48fa-b5ff-f5edeb1bd6e5]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 21:28:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":20,"quantity":1,"price":"100.00"}
+Started GET /api/v1/products/category/5 for :: ::1 at Sun Apr 14 2024 21:28:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 807 ms Request ID: [b4824077-9bc1-4c4e-a468-a2704c57f63c]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:28:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 261 ms Request ID: [fb988f6a-09d9-4f10-822a-ebe8fdd4c91f]
+
+Completed: 304 message:  Time response: 4307 ms Request ID: [5965ca07-9975-4d31-a0b6-a06ef6b3b503]
+
+Started GET /api/v1/review/product/20 for :: ::1 at Sun Apr 14 2024 21:29:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/20 for :: ::1 at Sun Apr 14 2024 21:29:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 205 ms Request ID: [8f6144e6-66ad-415e-ae1d-22240fd2ef6e]
+
+Started GET /api/v1/review/product/20 for :: ::1 at Sun Apr 14 2024 21:29:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 240 ms Request ID: [ad933027-a4f2-4554-88b2-e08dad8c25d3]
+
+Completed: 304 message:  Time response: 1303 ms Request ID: [474dd686-d873-4e62-b377-553a85315a1e]
+
+Started GET /api/v1/products/20 for :: ::1 at Sun Apr 14 2024 21:29:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 275 ms Request ID: [0feec1f0-eb60-4515-a798-c7b4dce3d948]
+
+Started PUT /api/v1/cart/increase/20 for :: ::1 at Sun Apr 14 2024 21:29:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":154,"cart_id":112}
+Completed: 201 message:  Time response: 1510 ms Request ID: [01f0aedc-d375-4bdd-ab2d-f43345d0bc72]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:29:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 299 ms Request ID: [488b8da5-7a84-4726-a769-4a0e49d4e619]
+
+Started PUT /api/v1/cart/increase/20 for :: ::1 at Sun Apr 14 2024 21:29:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":154,"cart_id":112}
+Completed: 201 message:  Time response: 267 ms Request ID: [2c9b6c2f-93d6-4a32-9e73-44f8610066fc]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:29:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 304 ms Request ID: [5cfda5aa-8253-4296-88e7-d4b03e16de5b]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 21:29:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:29:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 437 ms Request ID: [976c2440-e257-46ba-a5f9-69424236364a]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 21:29:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 220 ms Request ID: [164bb086-0859-492f-a1b0-cba2d0bca794]
+
+Completed: 304 message:  Time response: 987 ms Request ID: [50d1f6f5-f791-4928-abe2-944e91a21da0]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:29:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 198 ms Request ID: [f95b0cef-81d8-4928-923e-7af1f0fe33a1]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:29:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [a78d6ebc-8252-48b7-9e2a-101d6f36f31a]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 21:29:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [0ff8bc36-ccaf-492a-adf3-7f203e24e813]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 21:32:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [b4296ee6-470e-4103-85f7-6ff545654f73]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:32:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3231 ms Request ID: [6f2eeb91-0929-4a3d-a161-c24c33b00889]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 21:32:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 21:32:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [bbfd8d55-c26d-47ea-9c02-f0aaffbe6017]
+
+Completed: 304 message:  Time response: 690 ms Request ID: [d42d4f5c-e495-4130-a8e4-43ff37136a73]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 22:00:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 4413 ms Request ID: [60b1478e-2c87-4c5b-bdd2-3db344424e63]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:00:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 217 ms Request ID: [ee423b98-df38-4d15-a61a-8a78f7806acf]
+
+Started PUT /api/v1/cart/decrease/4 for :: ::1 at Sun Apr 14 2024 22:00:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":155,"cart_id":113}
+Completed: 201 message:  Time response: 254 ms Request ID: [0bb9017b-342a-4ea9-b582-2fa514e013bc]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:00:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 299 ms Request ID: [63efbb59-684c-493a-a22b-5558368cb0c8]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 22:00:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:00:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 439 ms Request ID: [4d7acbfe-3508-4bb7-8de0-a1d0f14a00e4]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:00:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 265 ms Request ID: [44090f0e-a767-44b8-b02e-ee1c15f5de6b]
+
+Completed: 304 message:  Time response: 974 ms Request ID: [1cac762e-e2c9-4915-a2eb-357ba43324d4]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:00:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [c2546e1f-35c5-4f46-a054-ab6cb97f741e]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:00:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 196 ms Request ID: [e622ee72-fcf8-4f24-8b8a-98da532458ce]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:00:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 195 ms Request ID: [163f241e-4a94-47be-93ff-0670018a85bf]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 22:00:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:00:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:07:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 14 ms Request ID: [5f40e008-aeee-40ec-9de2-d98b5694eb5b]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:07:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [6e4faf7e-8448-42a1-945e-431caea9e845]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 22:07:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1028 ms Request ID: [c216cb30-4fa5-451e-9869-7a97258dbd96]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 22:07:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 22:07:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [f1ff0ac5-6c1d-4cfd-8eef-5720948a058e]
+
+Completed: 304 message:  Time response: 239 ms Request ID: [cb27858c-79c5-4474-86ef-98194a8965aa]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:07:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [9b602753-a71b-434e-b777-c340773ac7ab]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:07:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:07:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4501 ms Request ID: [76fa98fe-057e-44a0-87cc-13c5f7f58f78]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:07:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4517 ms Request ID: [dc7ec9b1-adc7-43c3-8796-83c2cafe99fe]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:07:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:07:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [a4a79050-0d79-4718-9ea3-3fc1c0d17ed1]
+
+Completed: 304 message:  Time response: 215 ms Request ID: [a2998758-85e0-4f90-b25f-116426e0aec0]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:07:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 221 ms Request ID: [d8fc91b1-912d-4ee9-b7d7-b08f9b9f6e21]
+
+Completed: 304 message:  Time response: 216 ms Request ID: [f829bd97-29f2-4d3e-a140-d18e3ca7f07d]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:07:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 216 ms Request ID: [3fbbf3ca-21d1-4aae-b3f4-faae88ab1dd9]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:21:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:21:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1001 ms Request ID: [83f91dc0-540e-4b7c-bb25-39c9a06cd96e]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:21:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:21:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [299a8c4f-4205-4041-b98d-8602aa7e1446]
+
+Completed: 304 message:  Time response: 1076 ms Request ID: [00bbb9ce-3e83-475c-8b83-464b69184d0a]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:21:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 200 ms Request ID: [ee52458e-9728-4b28-bfab-30f124288062]
+
+Completed: 304 message:  Time response: 214 ms Request ID: [6777d986-2be0-4f72-a5d3-10f77885ad36]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:21:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 213 ms Request ID: [ebd8ab0d-ee9b-4b0d-937e-f76509a9ab12]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:21:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [9869484e-ed33-48ba-95d1-57fb635514bf]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 22:21:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 382 ms Request ID: [8325a589-f5bc-4501-b031-d031687cc9e7]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 22:21:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 22:21:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:21:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:21:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [0ec6ae35-7f24-4869-9c6b-d40a099f29a6]
+
+Completed: 200 message:  Time response: 203 ms Request ID: [8505cd5c-7905-4200-aded-409f789157fa]
+
+Completed: 304 message:  Time response: 258 ms Request ID: [677dce65-de96-4869-9962-d3777b5930d6]
+
+Completed: 304 message:  Time response: 1028 ms Request ID: [212ba058-91d2-4a08-8d2f-5e4e0e98076a]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 22:21:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 22:21:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 207 ms Request ID: [5c302ee6-56c9-4136-87ab-5c521d3949ec]
+
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 22:21:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [ae643c05-0a61-4feb-8647-ae9a3d3cece3]
+
+Completed: 304 message:  Time response: 244 ms Request ID: [386c3309-1e6f-468b-96ce-c89ee0142e87]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 22:22:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 730 ms Request ID: [5e3682c2-fa3b-4d33-9a2a-98ef487ac8f1]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:22:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 249 ms Request ID: [e1981b22-46fd-43fa-bdd0-f81aee19b1e1]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 22:22:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 446 ms Request ID: [05348b0c-4702-4bab-9deb-21b98283218b]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 22:22:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 241 ms Request ID: [88c1bd0f-8c60-4a7b-b348-6ec92a36d244]
+
+Completed: 304 message:  Time response: 1072 ms Request ID: [ddd858ca-e0d0-4980-8a3f-7b68f33971d7]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 249 ms Request ID: [1eeec973-6531-49d6-a28c-0b8132dc6740]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [f81bcea5-6d6e-4045-b4ae-967319dfcb55]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 214 ms Request ID: [ef812802-ece2-4029-bb5e-d1d52176d45b]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:22:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 977 ms Request ID: [aa51bbd0-3465-4db7-97aa-1a554cf1b40d]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 22:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 985 ms Request ID: [23f28bcc-f425-4891-96cb-50a8155e9bb9]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 196 ms Request ID: [037a36ad-96fa-4577-b409-dd8abcadea37]
+
+Completed: 304 message:  Time response: 195 ms Request ID: [22606244-f3d6-4f04-b08f-beb8bceea017]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 195 ms Request ID: [d1dfcc88-1c5b-4171-bbe1-6521fc8ee69a]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 195 ms Request ID: [3e341eda-b7f2-421b-b395-faa5194211dd]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 22:22:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"seller@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 331 ms Request ID: [c386e7ac-7aff-4bae-bd7d-bd5b9a299e4c]
+
+Started GET /api/v1/products/user/14 for :: ::1 at Sun Apr 14 2024 22:22:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/14 for :: ::1 at Sun Apr 14 2024 22:22:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/14 for :: ::1 at Sun Apr 14 2024 22:22:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 22:22:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [eb8ae2c7-db9a-4387-b5ca-aa614788dda8]
+
+Completed: 304 message:  Time response: 241 ms Request ID: [01a5f6fd-765e-4623-b58f-44782f24f28c]
+
+Completed: 304 message:  Time response: 243 ms Request ID: [4454bf9f-986c-47b1-9cfe-cd4b6415b364]
+
+Completed: 304 message:  Time response: 1067 ms Request ID: [a3388c8c-adee-4ebc-9699-c555ca88b454]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 200 ms Request ID: [d75f21f4-4524-4e0d-a851-01d5f0e444b8]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 22:22:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 201 ms Request ID: [cfd1194c-fbd3-43e7-b659-9337e5e5bd3d]
+
+Started POST /api/v1/products for :: ::1 at Sun Apr 14 2024 22:23:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 7 ms Request ID: [337d8197-24cf-43e6-aa1d-cec0b871b7db]
+
+Started POST /api/v1/products for :: ::1 at Sun Apr 14 2024 22:31:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 17 ms Request ID: [565200bc-d3da-45dc-9264-d9f9277737cb]
+
+Started POST /api/v1/products for :: ::1 at Sun Apr 14 2024 22:31:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 1012 ms Request ID: [e9bedfb9-157f-48e7-9b75-96acd2684a53]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:01:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:01:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:01:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1001 ms Request ID: [60cf5649-b361-4f69-b0b8-3360f2d703eb]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:01:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [83102c59-eceb-494f-9866-ca7696aa7961]
+
+Completed: 304 message:  Time response: 1067 ms Request ID: [f4476bf4-fce0-4436-8de3-ae609f153b50]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:01:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 200 ms Request ID: [4a34c680-6eb9-4555-bb71-e5675c0408e8]
+
+Completed: 304 message:  Time response: 215 ms Request ID: [8ee9096a-b78a-46c6-8f29-122b468b25f4]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:01:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 213 ms Request ID: [3b2c2ae6-ff02-49a8-bfa6-fb20cfdf3759]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:01:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 213 ms Request ID: [3a9e367a-4bd2-42d1-a8c8-f1ee2b0743ed]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Sun Apr 14 2024 23:02:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1029 ms Request ID: [da860b50-a9db-4306-bfa3-92a9faea0ae2]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Sun Apr 14 2024 23:02:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 199 ms Request ID: [9d1fae9e-02f4-41a0-968b-1efb92f14ea6]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Sun Apr 14 2024 23:02:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 243 ms Request ID: [ba261ee0-6cf9-4243-a505-afc9ac4ad55d]
+
+Started POST /api/v1/product/description for :: ::1 at Sun Apr 14 2024 23:02:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"Ibu"}
+Started POST /api/v1/product/description for :: ::1 at Sun Apr 14 2024 23:02:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"Ibu"}
+Completed: 404 message:  Time response: 5 ms Request ID: [eaffb0b0-7ac1-4269-90f7-e854c2068995]
+
+Completed: 404 message:  Time response: 4 ms Request ID: [4ee70ef6-17ea-4a2e-a165-47820434529c]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:03:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 3517 ms Request ID: [d8a3b19d-3a1e-4226-8e7b-9e1f22c4417d]
+
+Started GET /api/v1/products/user/13 for :: ::1 at Sun Apr 14 2024 23:03:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:03:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Sun Apr 14 2024 23:03:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:03:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [f989cbbe-87b1-4e7e-9006-b36e962f2982]
+
+Completed: 304 message:  Time response: 241 ms Request ID: [b473cacf-e197-4006-aa58-f99edae52d21]
+
+Completed: 304 message:  Time response: 1110 ms Request ID: [1dbe604f-7494-4c32-adf0-480d3d1f285a]
+
+Completed: 200 message:  Time response: 1113 ms Request ID: [8315a5fb-7b79-435b-be9f-73b199e43b1d]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 23:03:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [a258c1f3-1309-40dd-9445-68a71c2cf398]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 23:03:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 23:03:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [ad2b7362-fede-4919-99e9-0578ef976976]
+
+Completed: 304 message:  Time response: 255 ms Request ID: [04a30b26-657a-45bb-993e-b40a5225cbb0]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:03:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [ff9fbce9-91cc-43a9-a6ca-509dc9f9704c]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 23:03:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 256 ms Request ID: [6119788c-146d-4904-bfe4-28af8508b5c5]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 23:03:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/$favorite.image_url for :: ::1 at Sun Apr 14 2024 23:03:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [5349b3ed-263c-48a3-9f4e-d6f6b6b3f118]
+
+Completed: 304 message:  Time response: 255 ms Request ID: [a504854d-e726-4b7b-85da-9d2adca7a319]
+
+Started POST /api/v1/cart for :: ::1 at Sun Apr 14 2024 23:03:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":4,"quantity":1,"price":"22.00"}
+Completed: 201 message:  Time response: 770 ms Request ID: [0100bb5f-87ad-401d-827c-c456f5bb6991]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:03:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 217 ms Request ID: [ec961977-cb28-4e19-a4de-09b3ac70824e]
+
+Started DELETE /api/v1/favorite/9 for :: ::1 at Sun Apr 14 2024 23:03:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 219 ms Request ID: [84abb239-34b7-4fbd-9689-2d277d093e14]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Sun Apr 14 2024 23:03:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 216 ms Request ID: [0116a778-9426-4e84-9120-8f6e61da25b3]
+
+Started PUT /api/v1/cart/increase/4 for :: ::1 at Sun Apr 14 2024 23:05:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":165,"cart_id":116}
+Completed: 201 message:  Time response: 3489 ms Request ID: [c4aee20f-32ac-4efd-85f0-18c8ba22d3e4]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:05:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 258 ms Request ID: [c0cbbb5e-686c-4f51-856e-d9737626cc2b]
+
+Started PUT /api/v1/cart/decrease/4 for :: ::1 at Sun Apr 14 2024 23:05:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":165,"cart_id":116}
+Completed: 201 message:  Time response: 259 ms Request ID: [801c086f-673a-4076-8d76-53510669c045]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:05:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 261 ms Request ID: [d2543f12-8a5c-4872-a159-ff6ad6ae1406]
+
+Started PUT /api/v1/cart/decrease/4 for :: ::1 at Sun Apr 14 2024 23:05:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":165,"cart_id":116}
+Completed: 201 message:  Time response: 260 ms Request ID: [93320cd4-83f3-458a-8492-92261078e6a3]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:05:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 257 ms Request ID: [619a303c-dafa-4462-b942-c81da02d9ce8]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Sun Apr 14 2024 23:06:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:06:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 979 ms Request ID: [5dc73ecb-2e1d-4be3-b252-c05befc70374]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:06:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [5c4d2545-e2f4-4893-8094-77fb27dfcf19]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:06:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 1197 ms Request ID: [4d9d036e-a7b1-442c-9598-00b9e58d20fb]
+
+Started GET /api/v1/cart/13 for :: ::1 at Sun Apr 14 2024 23:06:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 200 ms Request ID: [fc87584d-8e7f-4f17-b70a-8998166c2a01]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:06:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 201 ms Request ID: [30ff9b74-1743-4edf-b47a-6b88a841c542]
+
+Completed: 304 message:  Time response: 198 ms Request ID: [98cc2c7d-a707-4459-8f0b-05106da7a232]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:06:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [e3e49af8-89d4-4cf6-8035-a501541392d6]
+
+Started POST /api/v1/review for :: ::1 at Sun Apr 14 2024 23:07:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"product":4,"user":13,"rating":5,"coments":"este es un comentario"}
+Completed: 201 message:  Time response: 3353 ms Request ID: [0018bc2e-a129-413c-ad9b-35ca2724a796]
+
+Started POST /api/v1/review for :: ::1 at Sun Apr 14 2024 23:07:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"product":4,"user":13,"rating":5,"coments":"Otro comentario"}
+Completed: 201 message:  Time response: 1027 ms Request ID: [aa5819af-7af7-4aee-bf68-9d7a62d3c78b]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:08:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:08:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3325 ms Request ID: [d96c4278-e90b-4ee3-90a6-b8bc16b0f528]
+
+Completed: 304 message:  Time response: 3326 ms Request ID: [dc0c7d72-7c53-44f7-aaf6-47b9ca9fc12e]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:08:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:08:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 220 ms Request ID: [b1e8c255-04e5-4f5f-922a-2d0230bd1e9d]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:08:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 230 ms Request ID: [2ae6eebd-6db8-4933-8946-7360e180841c]
+
+Completed: 304 message:  Time response: 216 ms Request ID: [036a8e4e-6f35-4fef-aa31-ebf4e2d738b7]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:08:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:08:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [096d4780-62ea-47e9-b1a9-cde91910c235]
+
+Completed: 304 message:  Time response: 215 ms Request ID: [6fc2de1d-c38e-4ed8-b161-d5e3a7c458f6]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:09:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"seller@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 1135 ms Request ID: [44be471a-f4d0-4625-8781-76ed233d7c97]
+
+Started GET /api/v1/products/user/14 for :: ::1 at Sun Apr 14 2024 23:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/14 for :: ::1 at Sun Apr 14 2024 23:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/14 for :: ::1 at Sun Apr 14 2024 23:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:09:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [ce629f90-35a7-4131-ab05-cba88c9b5db7]
+
+Completed: 200 message:  Time response: 241 ms Request ID: [6507e5e9-9c69-450b-b4b1-bcd4bd047179]
+
+Completed: 304 message:  Time response: 962 ms Request ID: [05f6dfb6-5d52-4058-abb7-b4048ab90e4d]
+
+Completed: 304 message:  Time response: 1098 ms Request ID: [28d37120-41c4-4cef-9897-0a4a999bc350]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:09:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:09:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 211 ms Request ID: [f1d9ca2d-beab-4818-b778-34fde08de214]
+
+Completed: 304 message:  Time response: 219 ms Request ID: [943c58ef-b13a-4183-8c33-88296b589b29]
+
+Started POST /api/v1/products for :: ::1 at Sun Apr 14 2024 23:10:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3379 ms Request ID: [da3b0918-f7ef-46f3-b0da-6544ae51458a]
+
+Started GET /uploads/https://acdn.mitiendanube.com/stores/672/615/products/ain_tapsin_flu1-f570d312a750c9d11d16618881790247-640-0.jpg for :: ::1 at Sun Apr 14 2024 23:10:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/http://localhost:4000/uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:10:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [bc5a8ea7-f368-4646-a0b7-9b99b6b8c0e1]
+
+Completed: 404 message:  Time response: 3 ms Request ID: [83b43419-63a5-4cea-af0e-4b4c9d6939e4]
+
+Started GET /uploads/https://acdn.mitiendanube.com/stores/672/615/products/ain_tapsin_flu1-f570d312a750c9d11d16618881790247-640-0.jpg for :: ::1 at Sun Apr 14 2024 23:12:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/http://localhost:4000/uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:12:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 10 ms Request ID: [c16a0502-e0a1-4928-b59f-3f721242120e]
+
+Completed: 404 message:  Time response: 13 ms Request ID: [56f97ad2-4dc1-43b3-8cdd-6f805f79e811]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:13:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [22bb7cbf-30d5-43cb-a3fa-d0a3fed737de]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:13:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"desafio@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 3603 ms Request ID: [236b49a3-69e9-4ba1-9f3b-5a03c9a5b783]
+
+Started GET /api/v1/cart/all/11 for :: ::1 at Sun Apr 14 2024 23:13:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/user/11 for :: ::1 at Sun Apr 14 2024 23:13:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/11 for :: ::1 at Sun Apr 14 2024 23:13:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:13:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [30f68d94-da87-4f00-8404-2e2abf6e373b]
+
+Completed: 200 message:  Time response: 257 ms Request ID: [9c592b3a-1b69-435e-ab9c-26bdeeae13ae]
+
+Completed: 304 message:  Time response: 972 ms Request ID: [e1dd615b-3357-4438-804c-97b34ce946f2]
+
+Completed: 200 message:  Time response: 1131 ms Request ID: [6a439452-f9ac-496a-a5e7-b3abf38ff474]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:13:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 220 ms Request ID: [019f885a-4250-438b-81e4-11c4e280559d]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:13:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 219 ms Request ID: [3f443937-8711-43ae-b6d1-25eafe0a4a90]
+
+Started PUT /api/v1/product/status/37 for :: ::1 at Sun Apr 14 2024 23:13:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"A"}
+Completed: 200 message:  Time response: 1078 ms Request ID: [0c0708d7-46d4-4626-a23f-e6e264f7f6a3]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:13:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 218 ms Request ID: [07dc9743-4a80-42dd-8593-3533aa694823]
+
+Started PUT /api/v1/product/status/38 for :: ::1 at Sun Apr 14 2024 23:14:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"A"}
+Completed: 200 message:  Time response: 1107 ms Request ID: [8194ab3c-27a3-4763-90a0-c1d7e40228a1]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 216 ms Request ID: [c3254d9d-7be7-40bb-bf9e-dd9840426aa1]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 228 ms Request ID: [d07fe3a2-6e1f-496d-97bb-7f0be0dd62f3]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 218 ms Request ID: [d2316896-29ae-4339-b491-3b35a600091c]
+
+Started PUT /api/v1/product/status/3 for :: ::1 at Sun Apr 14 2024 23:14:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"X"}
+Completed: 200 message:  Time response: 1018 ms Request ID: [f6ef8093-2e1b-4c2a-803a-d65855a508ef]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 205 ms Request ID: [2058ca93-6ca1-4c9e-8400-51aba9da10e6]
+
+Started PUT /api/v1/product/status/3 for :: ::1 at Sun Apr 14 2024 23:14:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"A"}
+Completed: 200 message:  Time response: 240 ms Request ID: [cf5e7c3d-dc74-46c2-b201-2574a585792e]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 199 ms Request ID: [2a623ae6-764c-4cc2-8bac-45e8fb4dcf4d]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 198 ms Request ID: [c7d5b477-3639-4c36-ba18-fadded30b529]
+
+Started GET /api/v1/products/all for :: ::1 at Sun Apr 14 2024 23:14:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [37983fad-c707-434a-a2e2-fe869fd23380]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:14:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3206 ms Request ID: [8d83d089-878c-4fc2-8707-ff7d8dbc082a]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:14:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [386eb970-d30b-4cd8-93ae-f37d6e47158c]
+
+Started PUT /api/v1/users/status/39 for :: ::1 at Sun Apr 14 2024 23:15:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"X"}
+Completed: 200 message:  Time response: 1117 ms Request ID: [e37f51bd-9cc6-41e4-bfc7-a21d8272c0ca]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:15:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 218 ms Request ID: [12c3c300-435f-45f8-8da7-d687ed833b11]
+
+Started PUT /api/v1/users/status/39 for :: ::1 at Sun Apr 14 2024 23:15:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"A"}
+Completed: 200 message:  Time response: 259 ms Request ID: [439e86e2-e586-4f64-b9bb-262e57745224]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:15:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 222 ms Request ID: [1764a740-a093-4164-bc2a-d5754cabaac0]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:15:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [a69bbcd8-b1d7-461e-900b-64d65b4c1e1e]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:15:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"seller@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 1113 ms Request ID: [87391a11-7054-4880-9c07-a45332de88bb]
+
+Started GET /api/v1/products/user/14 for :: ::1 at Sun Apr 14 2024 23:15:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/14 for :: ::1 at Sun Apr 14 2024 23:15:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/14 for :: ::1 at Sun Apr 14 2024 23:15:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:15:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 0 ms Request ID: [fcc6226a-0263-439b-93ea-f8f6a6e6022b]
+
+Completed: 200 message:  Time response: 238 ms Request ID: [9122cfdc-0b57-44fe-9aa1-a1b0531ba866]
+
+Completed: 304 message:  Time response: 978 ms Request ID: [18f4d1f0-26c8-4b14-a1e2-57d9b4555706]
+
+Completed: 304 message:  Time response: 1128 ms Request ID: [489324db-0449-481f-91a7-a095d72eafe9]
+
+Started GET /uploads/https://acdn.mitiendanube.com/stores/672/615/products/ain_tapsin_flu1-f570d312a750c9d11d16618881790247-640-0.jpg for :: ::1 at Sun Apr 14 2024 23:15:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/http://localhost:4000/uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:15:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [804ad3da-ab34-4726-a804-dc829ec00598]
+
+Completed: 404 message:  Time response: 4 ms Request ID: [5edef8e4-60ec-4630-904d-31efec68068a]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:16:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [c04b2092-3d9d-43bb-b721-ecef2a92c919]
+
+Started POST /api/v1/users for :: ::1 at Sun Apr 14 2024 23:18:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"username":"Ingrid Morales","rut":"18463192-K","birth":"06/08/1993","email":"ingrid@latam.com","phone":"9992929292","password":"123456","role":"user","status":"A"}
+Completed: 201 message:  Time response: 3359 ms Request ID: [f82d0748-96cd-401e-a67b-11732bf92494]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:18:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"ingrid@latam.com","password":"123456"}
+Completed: 200 message:  Time response: 1226 ms Request ID: [3a3092c4-5158-4ad3-bf18-403005c08f40]
+
+Started GET /api/v1/products/user/50 for :: ::1 at Sun Apr 14 2024 23:18:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/50 for :: ::1 at Sun Apr 14 2024 23:18:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/50 for :: ::1 at Sun Apr 14 2024 23:18:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:18:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [94c6feb0-6188-4da6-abb5-7da98b355e26]
+
+Completed: 200 message:  Time response: 217 ms Request ID: [7ccf53b0-143e-42a9-a43c-de60918e2aa5]
+
+Completed: 200 message:  Time response: 1073 ms Request ID: [df920c7d-4c62-4532-8bc3-2b2cf681277a]
+
+Completed: 200 message:  Time response: 1074 ms Request ID: [2591e639-975c-43c1-9e94-a833251a046a]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:19:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:19:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 220 ms Request ID: [b6e8b2fe-afb3-448f-8e69-2611658ab894]
+
+Completed: 200 message:  Time response: 220 ms Request ID: [56cad119-55d4-4cb0-bed0-a436316b765a]
+
+Started GET /api/v1/products for :: ::1 at Sun Apr 14 2024 23:19:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:19:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:19:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [3c5f38c4-ed31-4748-925f-874ec57cf5ea]
+
+Completed: 304 message:  Time response: 216 ms Request ID: [4ed359eb-7e07-4f70-8238-65392370f93f]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:19:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 217 ms Request ID: [9b56c08f-1cc3-4083-b7e8-2d972d82d6a0]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:19:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [0dcdf3a5-fa6d-44e9-b3f1-4d84116df4e0]
+
+Completed: 304 message:  Time response: 212 ms Request ID: [8a00a5bc-8b17-404f-91c0-cebb7bbd7ec0]
+
+Started POST /api/v1/login for :: ::1 at Sun Apr 14 2024 23:19:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"desafio@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 307 ms Request ID: [34e0658f-e681-4c94-badf-8e5ed0984a6e]
+
+Started GET /api/v1/products/user/11 for :: ::1 at Sun Apr 14 2024 23:19:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/11 for :: ::1 at Sun Apr 14 2024 23:19:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/11 for :: ::1 at Sun Apr 14 2024 23:19:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:19:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [8cd9cf85-4b28-49aa-bcd5-d148a70ec2ba]
+
+Completed: 304 message:  Time response: 255 ms Request ID: [e39437cf-3d28-4ad1-9cfa-6c283f7944ff]
+
+Completed: 304 message:  Time response: 257 ms Request ID: [45600c83-3453-456e-bffe-c3a0f9cef82a]
+
+Completed: 304 message:  Time response: 1633 ms Request ID: [299936f4-7d8c-473e-b7a4-c27dbda415eb]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:19:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 217 ms Request ID: [6f86e0e7-6fd4-4282-a987-0f64c661ff3b]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:19:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 216 ms Request ID: [f2f18ab7-af0e-42a0-afa4-ae02eac6c807]
+
+Started PUT /api/v1/users/status/40 for :: ::1 at Sun Apr 14 2024 23:21:47 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"status":"X"}
+Completed: 200 message:  Time response: 3190 ms Request ID: [7d59c269-a73a-49d2-ba52-81f849cd6f64]
+
+Started GET /api/v1/users for :: ::1 at Sun Apr 14 2024 23:21:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 222 ms Request ID: [16f8ee9c-96ac-4c51-ad66-e071d01384ad]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Sun Apr 14 2024 23:25:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"name":"ibu"}
+Completed: 200 message:  Time response: 4210 ms Request ID: [5e810a6d-7845-4d72-8d04-d5eaf804f33d]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Sun Apr 14 2024 23:29:36 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [c50dee25-d44e-4c32-bff9-60a4a4aee74a]
+
+Started DELETE /api/v1/cart/closeCart/11 for :: ::1 at Sun Apr 14 2024 23:29:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 5 ms Request ID: [6d2d17df-7763-415a-a80a-61cf14313d16]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:29:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/11 for :: ::1 at Sun Apr 14 2024 23:29:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [446c3ef8-6692-4a8d-b90e-5839ee09a6bf]
+
+Completed: 304 message:  Time response: 4132 ms Request ID: [56be8044-d19a-4716-82fc-a59248a32ae8]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:30:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 195 ms Request ID: [aaf0606f-00c6-423b-b854-ace0da6dcf2a]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:30:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [84069581-1992-4c3b-bc74-c978284ebdb7]
+
+Started GET /api/v1/category for :: ::1 at Sun Apr 14 2024 23:30:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [d26866b5-47b9-4dd4-ad6d-34586b0625ca]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:21:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:21:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3145 ms Request ID: [6d55e958-c34d-4e37-801d-0fd20e642015]
+
+Completed: 304 message:  Time response: 3145 ms Request ID: [99efcd53-b759-4283-ba11-8ead47999fab]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:21:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:21:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:21:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [c2160115-6be4-4d49-9701-54eef8bab194]
+
+Completed: 304 message:  Time response: 214 ms Request ID: [e38ff03c-4d27-499d-98cc-f851ff96dbcb]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:21:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 219 ms Request ID: [c6922c33-89c7-4c02-b76b-44bdf3fb0171]
+
+Completed: 304 message:  Time response: 214 ms Request ID: [c1f4c70b-6f62-4459-95c8-601ac36501fd]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:21:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 217 ms Request ID: [d67dbb4c-a60d-4fd0-852e-3bfb754dc94c]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:21:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1424 ms Request ID: [d135820e-2295-4431-8a2d-0a6dbe68335d]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:21:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 218 ms Request ID: [e521f6ae-74a3-4c34-9c68-9b137eb2da92]
+
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:22:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:22:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1288 ms Request ID: [53fcbc2d-89f7-450f-93bb-6e8ab2cc49e8]
+
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:22:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1325 ms Request ID: [6f501e43-0702-470a-964a-59ea60ed5c10]
+
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:22:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 216 ms Request ID: [2b275ba5-a72b-403e-91fd-dabdf0e216c5]
+
+Completed: 304 message:  Time response: 219 ms Request ID: [cd8a3656-e441-444c-9f45-d8922c53e4ff]
+
+Started POST /api/v1/products/description for :: ::1 at Mon Apr 15 2024 19:23:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"name":"aspi"}
+Started POST /api/v1/products/description for :: ::1 at Mon Apr 15 2024 19:23:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"name":"aspi"}
+Completed: 200 message:  Time response: 3166 ms Request ID: [1d6e7ec4-befe-43f3-bfb4-208c41750e83]
+
+Completed: 200 message:  Time response: 3197 ms Request ID: [94e77ace-7637-4c4d-b841-152e7444842f]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:23:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:23:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:23:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:23:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1069 ms Request ID: [617fa14a-914e-4ebb-a101-c299ab187f6d]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:23:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1107 ms Request ID: [d7b6e513-5ccb-4936-9cd5-9489f94ca6f2]
+
+Completed: 304 message:  Time response: 1109 ms Request ID: [2e9631a1-f426-4aa7-8601-e53ab07545be]
+
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:23:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:23:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 211 ms Request ID: [13af9a1c-be31-490e-9db7-9857916044a5]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:23:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 210 ms Request ID: [827b71f6-733e-4b7f-b6de-edbb4f0e80bb]
+
+Completed: 304 message:  Time response: 209 ms Request ID: [ece576ad-8ac4-4d20-9ed5-2df8d6a8a6fc]
+
+Completed: 304 message:  Time response: 212 ms Request ID: [fd5cfbf5-85b6-460e-a5d6-a5753fa2ee28]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:23:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1611 ms Request ID: [694d5fc0-a68b-4c49-bf5f-96fa3715288a]
+
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:23:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 212 ms Request ID: [a2f56953-c228-43e7-90e3-30e0da977336]
+
+Completed: 304 message:  Time response: 218 ms Request ID: [b8094753-e620-4898-8cda-5eb73905be59]
+
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:28:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3337 ms Request ID: [6bd4efac-11d6-4069-b8b6-073e6c5dfe88]
+
+Completed: 304 message:  Time response: 3345 ms Request ID: [eefa1d21-8f0a-4284-8b3e-2c000495b2f3]
+
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:29:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:29:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1298 ms Request ID: [71cba0fa-cacc-4443-ad52-a45f6b179666]
+
+Completed: 304 message:  Time response: 1298 ms Request ID: [78586b8d-4b96-4f8f-9c71-9d74064a4fb2]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/undefined for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [f589aa9f-d3a2-4117-9b3c-50c88c5c4540]
+
+Completed: 304 message:  Time response: 220 ms Request ID: [b986e670-09bc-487a-99eb-783c988524de]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 260 ms Request ID: [fa8092c2-5f33-410e-90a1-d4e3ab287db7]
+
+Started GET /api/v1/products/30 for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 214 ms Request ID: [d398679c-f4d3-4535-a789-625943aceceb]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 261 ms Request ID: [286e8f22-2781-4446-bd06-b0f3bf46541b]
+
+Completed: 304 message:  Time response: 217 ms Request ID: [4b222ccf-ec00-43a4-8a05-1663ab254fde]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:29:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 217 ms Request ID: [43d10c83-791e-41db-acfb-d4fbef6f3e0e]
+
+Completed: 304 message:  Time response: 1098 ms Request ID: [00c8947a-db20-4d19-8888-12918d5db8b5]
+
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:29:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1135 ms Request ID: [7c32ee6d-63ed-40a7-9fec-400ac7d4df1c]
+
+Started GET /api/v1/review/product/30 for :: ::1 at Mon Apr 15 2024 19:29:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 220 ms Request ID: [6896daf1-7456-4cdb-b07f-f9e9783611c9]
+
+Completed: 304 message:  Time response: 259 ms Request ID: [73af6c2f-f0ad-4fa2-bf57-eaae5483771b]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:30:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3517 ms Request ID: [04a70ee0-3f43-4d2d-99bf-dbb1133aac64]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:30:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 258 ms Request ID: [b72efd26-09af-46e0-a0d0-fc06e0f3933b]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:31:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3551 ms Request ID: [3821e585-706f-4fec-bbb2-2e21612a44db]
+
+Started GET /api/v1/products/33 for :: ::1 at Mon Apr 15 2024 19:32:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/33 for :: ::1 at Mon Apr 15 2024 19:32:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/undefined for :: ::1 at Mon Apr 15 2024 19:32:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [c6c8470f-709e-47fd-b789-70d97aab1a53]
+
+Completed: 200 message:  Time response: 1158 ms Request ID: [c5a25cd0-cbda-4fd9-aee6-42c780443a52]
+
+Started GET /api/v1/products/33 for :: ::1 at Mon Apr 15 2024 19:32:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1164 ms Request ID: [bf54a0d7-22b6-4639-b4b4-946550bf89d9]
+
+Started GET /api/v1/review/product/33 for :: ::1 at Mon Apr 15 2024 19:32:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1713070232068-arlette.jpeg for :: ::1 at Mon Apr 15 2024 19:32:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [d910fdc3-510a-41a5-9f9f-181534b8f017]
+
+Completed: 304 message:  Time response: 216 ms Request ID: [d519ddc4-8f7b-4690-a827-2ada54790b3d]
+
+Completed: 304 message:  Time response: 257 ms Request ID: [4af40191-a8e9-4dd3-b905-e9f16f68b609]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:34:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3238 ms Request ID: [120cbd54-077c-4357-b3fe-f83591f84aa4]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:34:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 257 ms Request ID: [3af09138-c859-4953-a7cd-d9caa007073b]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:34:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [6b89db80-4cdd-429a-92e1-c99d7e16719b]
+
+Started GET /api/v1/products/4 for :: ::1 at Mon Apr 15 2024 19:43:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/4 for :: ::1 at Mon Apr 15 2024 19:43:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3485 ms Request ID: [e39818a3-55ab-4c24-b099-2e8e2aa78382]
+
+Started GET /api/v1/products/4 for :: ::1 at Mon Apr 15 2024 19:43:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3527 ms Request ID: [f681b8ed-c04d-437d-9748-ba0f50a277a4]
+
+Started GET /api/v1/review/product/4 for :: ::1 at Mon Apr 15 2024 19:43:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 257 ms Request ID: [aa71817b-2e61-40e9-82d5-44566a166d23]
+
+Completed: 304 message:  Time response: 262 ms Request ID: [b139df07-029a-4689-9b23-350ee3b7d22e]
+
+Started POST /api/v1/login for :: ::1 at Mon Apr 15 2024 19:44:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"usuario@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 1508 ms Request ID: [5f23a431-a2e8-44d5-b2b7-a90d4a677468]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:44:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/all/13 for :: ::1 at Mon Apr 15 2024 19:44:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/user/13 for :: ::1 at Mon Apr 15 2024 19:44:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/cart/13 for :: ::1 at Mon Apr 15 2024 19:44:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:44:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [da63a4c3-a7c1-4809-a338-c14a4840e523]
+
+Completed: 200 message:  Time response: 214 ms Request ID: [96dd4750-4f6b-4739-b8de-cad4028fb29f]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:44:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 257 ms Request ID: [8431af49-f2cd-412e-b654-5f9bc3009138]
+
+Completed: 304 message:  Time response: 1076 ms Request ID: [a40bafd3-73be-4238-aa7d-0df22114e51f]
+
+Completed: 200 message:  Time response: 1097 ms Request ID: [e825ffb9-0bc7-4211-8425-3341c9ee2ffa]
+
+Completed: 304 message:  Time response: 1115 ms Request ID: [7751ed77-e374-43ac-89fc-bf5ed4462317]
+
+Started GET /api/v1/products/4 for :: ::1 at Mon Apr 15 2024 19:44:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/4 for :: ::1 at Mon Apr 15 2024 19:44:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 255 ms Request ID: [3076b5ab-8c20-4253-b9d8-43c896fa2990]
+
+Completed: 304 message:  Time response: 258 ms Request ID: [c1181929-7512-4f84-8efd-7a27c9061ed5]
+
+Started GET /api/v1/products/4 for :: ::1 at Mon Apr 15 2024 19:44:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/review/product/4 for :: ::1 at Mon Apr 15 2024 19:44:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 214 ms Request ID: [b24f3a77-a70b-47cf-846a-6eb77cf464e2]
+
+Completed: 304 message:  Time response: 256 ms Request ID: [29c48105-139e-408a-ade3-b17b975c977b]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:45:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [e7520e17-f807-48ec-a736-d9ef263175f2]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3474 ms Request ID: [21ef1a8c-f3f3-4185-9d2b-cfdad1eca8bb]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 278 ms Request ID: [3040356e-22aa-47c1-94d4-227c04f433bd]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:46:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 255 ms Request ID: [c8ff8003-2ef1-4391-9e35-16c4c6c2933f]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 215 ms Request ID: [d846605e-46b8-4ee8-b0a1-de0e936dcadb]
+
+Completed: 304 message:  Time response: 1227 ms Request ID: [39c0abfe-7114-43a6-bae2-a522e10120da]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:46:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 303 ms Request ID: [8dcef78b-c9b0-499f-9cac-efc91c4b2ee0]
+
+Started POST /api/v1/favorite/ for :: ::1 at Mon Apr 15 2024 19:46:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"product":33,"user":13}
+Completed: 201 message:  Time response: 269 ms Request ID: [c7739b7b-e5af-435f-b339-33a0aeadc9ad]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 225 ms Request ID: [c746d94b-b23e-4c44-a03b-a7fee6b58fc2]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 259 ms Request ID: [43266112-c510-449e-8379-3474ab37e50c]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 267 ms Request ID: [7a977117-a31d-4994-96e4-c8071de4573f]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:46:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 294 ms Request ID: [97ac1197-96e8-47a1-844f-0fc025383088]
+
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:46:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [fa29c489-d1e0-4dd8-9002-7bbfd253c7ec]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:50:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:50:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3543 ms Request ID: [83741906-c9af-43e3-921f-dbf40ae6dd06]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:50:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3589 ms Request ID: [3c421a5a-0391-421f-bc03-80ea5aa66910]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:50:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 223 ms Request ID: [deb6f7a1-3682-41af-9168-f80e3a01210f]
+
+Completed: 304 message:  Time response: 260 ms Request ID: [d594494e-4eff-4fed-9709-f8477e7dbe9c]
+
+Started POST /api/v1/cart for :: ::1 at Mon Apr 15 2024 19:50:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"user_id":13,"product_id":37,"quantity":1,"price":"12000.00"}
+Started GET /api/v1/products/category/2 for :: ::1 at Mon Apr 15 2024 19:50:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:50:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 255 ms Request ID: [7ee4eabb-d46c-48a8-9f1a-ac215150190d]
+
+Completed: 201 message:  Time response: 738 ms Request ID: [ac1c6966-3200-4e4d-9416-699d2a8e0b52]
+
+Started GET /api/v1/cart/13 for :: ::1 at Mon Apr 15 2024 19:50:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 261 ms Request ID: [064383fe-06d7-41cf-a656-6d0e05d4bef1]
+
+Completed: 304 message:  Time response: 1118 ms Request ID: [22d055c3-de1e-498b-89a0-1aeced55466a]
+
+Started PUT /api/v1/cart/increase/37 for :: ::1 at Mon Apr 15 2024 19:50:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":173,"cart_id":120}
+Completed: 201 message:  Time response: 336 ms Request ID: [35fe3356-be3f-4fe0-974a-2d09d85f82c9]
+
+Started GET /api/v1/cart/13 for :: ::1 at Mon Apr 15 2024 19:50:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 267 ms Request ID: [58f5ec41-c5dc-46a7-84ab-60edb792b322]
+
+Started PUT /api/v1/cart/decrease/37 for :: ::1 at Mon Apr 15 2024 19:50:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"detail_id":173,"cart_id":120}
+Completed: 201 message:  Time response: 325 ms Request ID: [61a6263f-4ec8-4a39-905c-569f65909c32]
+
+Started GET /api/v1/cart/13 for :: ::1 at Mon Apr 15 2024 19:50:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 259 ms Request ID: [6a720881-7cb0-408c-b78f-11f42a75cb66]
+
+Started DELETE /api/v1/cart/closeCart/13 for :: ::1 at Mon Apr 15 2024 19:50:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 519 ms Request ID: [677acef6-de0e-49e0-8bef-f7b243906e8c]
+
+Started GET /api/v1/cart/13 for :: ::1 at Mon Apr 15 2024 19:50:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 262 ms Request ID: [5005646b-cb30-4324-b50e-1808fd8fddbb]
+
+Completed: 304 message:  Time response: 1078 ms Request ID: [6a1deaa3-4360-4b43-93d4-df44fd83f499]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 217 ms Request ID: [e820fe20-15a3-4129-9e82-39778880a729]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 236 ms Request ID: [3a854aa7-8605-4051-ad49-1fe14876771d]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 212 ms Request ID: [d0369e8c-d797-4f36-9ea6-2b68866a99c5]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:50:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:50:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [c4827deb-17e0-416b-a553-61df6a1a64f0]
+
+Completed: 304 message:  Time response: 1231 ms Request ID: [194be563-5f6d-442b-af22-fb7157019639]
+
+Started GET /api/v1/favorite/user/13 for :: ::1 at Mon Apr 15 2024 19:50:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 305 ms Request ID: [91b38ea6-bbf1-400b-84cd-bc9c84e6ec24]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:50:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1068 ms Request ID: [4ad622ba-2166-424a-a55b-4a73d624baa0]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 1079 ms Request ID: [f41a0976-f10a-407c-9804-1c0259276251]
+
+Started GET /api/v1/products for :: ::1 at Mon Apr 15 2024 19:50:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /uploads/1711167241372-IMG_0529.jpeg for :: ::1 at Mon Apr 15 2024 19:50:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [c66f6405-a76b-4327-b923-4ed8b3917587]
+
+Completed: 304 message:  Time response: 210 ms Request ID: [a2118f8d-850f-466d-b4fc-5d8237b77ceb]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 216 ms Request ID: [874660d6-04ef-4fd7-b73d-2bf4990f56ef]
+
+Completed: 304 message:  Time response: 213 ms Request ID: [44fa02be-dc23-450d-9d42-e008a794a0dc]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 15 2024 19:50:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 210 ms Request ID: [3476ab15-acb4-493c-a65c-7b5564864901]
+
+Started POST /api/v1/products/description for :: ::1 at Mon Apr 15 2024 19:51:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"name":"Ibu"}
+Started POST /api/v1/products/description for :: ::1 at Mon Apr 15 2024 19:51:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"name":"Ibu"}
+Completed: 200 message:  Time response: 1436 ms Request ID: [239c93c8-95ff-43ad-8f10-dcb5bd452d85]
+
+Completed: 200 message:  Time response: 1435 ms Request ID: [ba23be2a-52e9-4083-acce-533c8b55835f]

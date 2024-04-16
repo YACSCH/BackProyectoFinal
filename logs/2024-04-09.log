@@ -1,0 +1,696 @@
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:33:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1011 ms Request ID: [deeb06ae-c7b1-4dc0-8111-c15b1f5f5777]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:34:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"a"}
+Completed: 400 message:  Time response: 3197 ms Request ID: [8cfd1df7-ac1e-4b59-bcca-a457ecd7a3e9]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:42:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 961 ms Request ID: [ff7b6071-7ce2-4a96-8d3b-f24f0f3b52ac]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:43:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 990 ms Request ID: [66aa10fb-3595-4728-9dab-e4588a428332]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:43:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 983 ms Request ID: [68efdacd-7d16-4198-8c34-ae11d1729f46]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:43:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 2702 ms Request ID: [1fa774d2-02b3-40ff-9d01-0b5e29e5c0f9]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:44:12 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1025 ms Request ID: [8a4e9cd2-7f7b-426d-bfe7-4e248630f031]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:47:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 944 ms Request ID: [cca72b3c-20c0-471e-831f-326b3e72281c]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:47:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 992 ms Request ID: [defebbd1-d29d-4785-a985-5299f2799a6d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:49:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 995 ms Request ID: [11962c12-19c1-43fe-bf41-2125c455b008]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:49:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 987 ms Request ID: [827495a9-a90c-4604-b090-7e5bc0d7dd3e]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:51:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1009 ms Request ID: [c08b2983-ca07-4569-aa69-a39848a6879a]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:53:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 963 ms Request ID: [b5a6cc0f-87d4-461f-8b7a-91581cd45301]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:54:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 998 ms Request ID: [cc53627d-f8bf-4673-aa80-45c80626318f]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:55:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 4304 ms Request ID: [0650a0b4-dc5e-4d01-ae4e-665d39d62b30]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 22:58:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1792 ms Request ID: [965f3ee2-6e39-4ee7-81fe-59ba5469ee50]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:01:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 958 ms Request ID: [9689d51c-1833-4fae-9a67-12dee0cc75b7]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:04:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 4270 ms Request ID: [3725f883-1e1b-4830-b6dd-98f367d6c497]
+
+Started GET /api/v1/products/user/1 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:04:37 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [59a8d8b4-36a1-4e95-8e93-7d75afbd22da]
+
+Started GET /api/v1/products/category/3 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:04:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:05:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 992 ms Request ID: [8ec75847-90d6-4980-bffc-9c9a3b31861e]
+
+Started GET /api/v1/products/user/1 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:05:22 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 4 ms Request ID: [c81b1756-87dd-48c5-b19a-0e7e299c8382]
+
+Started GET /api/v1/products/category/3 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:05:27 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:07:15 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1802 ms Request ID: [1b247c34-3173-4a22-81b6-586d16db9eaa]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:08:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 998 ms Request ID: [c2266c7b-e58a-4ce4-bb6c-20154737bd7c]
+
+Started GET /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:09:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 990 ms Request ID: [e410a0d0-2879-458e-acb0-f6b0bacbafeb]
+
+Started GET /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:09:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 988 ms Request ID: [34486235-ea0a-4231-ab4c-0b1aab53bdef]
+
+Started GET /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:10:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 990 ms Request ID: [1f81e4ea-f0c9-4ece-a3bf-478a6ad0adbb]
+
+Started GET /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:11:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1007 ms Request ID: [92ce760e-f83e-41da-a6b5-af890fb96154]
+
+Started GET /api/v1/products/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:11:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 965 ms Request ID: [5a2ab9a6-2ef2-4a43-8ceb-415902b5e35e]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:12:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3142 ms Request ID: [3501b46b-2098-4c5d-95c6-a79dc45def53]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:12:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 986 ms Request ID: [d57426a3-0631-44fb-8be2-ed6e945b7d66]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:13:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1010 ms Request ID: [2e8ad1c6-78ef-495c-85ba-be51eba90c48]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:13:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 4160 ms Request ID: [3b33f53a-a0fc-49d1-9bdd-b5952a49b2bd]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:15:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 994 ms Request ID: [2ba2ce76-8bc2-4384-831b-a9cfc6d48e53]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:15:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 947 ms Request ID: [32712511-f7c5-4f12-813b-59ef3e5a6e32]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:17:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1900 ms Request ID: [348273ff-f3b1-40d9-bb91-78b57fa81970]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:24:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 994 ms Request ID: [d7828b35-462f-4783-8703-7f949861a8c9]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:25:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 989 ms Request ID: [c03d801c-8daa-4b31-bc3d-a8be5859d0e3]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 08 2024 23:27:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Mon Apr 08 2024 23:27:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1004 ms Request ID: [7d1f73b3-9049-414a-8677-c069989464ed]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 08 2024 23:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1007 ms Request ID: [58d37b1a-8baa-4de5-a208-b48327ebce4c]
+
+Started GET /api/v1/products for :: ::1 at Mon Apr 08 2024 23:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 198 ms Request ID: [c199185e-a596-493e-aef7-432121907d12]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 08 2024 23:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 198 ms Request ID: [e2a816e8-0180-4c34-82ee-c23a2a8b7cdf]
+
+Completed: 304 message:  Time response: 195 ms Request ID: [dbafb067-523b-4d87-b847-91a886c9802a]
+
+Started GET /api/v1/category for :: ::1 at Mon Apr 08 2024 23:27:02 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [d9027adf-37c3-4932-a7f9-6a63885f5f9e]
+
+Started GET /api/v1/products for :: ::1 at Mon Apr 08 2024 23:27:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 3215 ms Request ID: [819bc3ce-5d1f-47dc-ad26-9386b53ac121]
+
+Started GET /favicon.ico for :: ::1 at Mon Apr 08 2024 23:27:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [82b83082-4a58-435c-8f6f-165e17f319e1]
+
+Started GET /api/v1/products/description for :: ::1 at Mon Apr 08 2024 23:27:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 203 ms Request ID: [cd492da4-d208-46d5-b948-b58264d7832e]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:30:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3091 ms Request ID: [c7a11492-8062-4a07-a33b-7535741dd97d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:30:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 930 ms Request ID: [5979aaeb-0140-4681-8259-e0ae36417c77]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:32:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 995 ms Request ID: [7d7a1dcd-6b65-478d-af45-e9da78722af4]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:35:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 960 ms Request ID: [4ae62f9f-e1a0-437a-99c3-c61166bf7e3b]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:35:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1009 ms Request ID: [15cafdfd-492e-435a-9a51-9ac9e3b0d0d6]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:35:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1022 ms Request ID: [c709ce12-0be1-4a2e-95f3-a58003599f2d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:36:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 987 ms Request ID: [9a5caf8f-ca3c-492e-9acc-bb0e91e4d6ac]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:36:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 962 ms Request ID: [1914cacf-d521-4fc2-b2bb-11a495235bf3]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:37:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 939 ms Request ID: [ad17fd25-1c67-4fe1-b188-9f3b846e2ec2]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:38:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3181 ms Request ID: [70504285-8239-4aa5-8752-1d82c4613bb2]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:38:40 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1032 ms Request ID: [2563ded9-0a8d-4a6d-b5e5-bb0589f4d9a1]
+
+Started GET /api/v1/products/category/2 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:39:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/category/2 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:39:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:41:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 947 ms Request ID: [e154082b-bd45-49fe-a957-85da1e2e65db]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:46:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1050 ms Request ID: [29a3e432-669c-45d8-8ef6-b584a7e931ed]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:47:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 991 ms Request ID: [2d2ca08c-0ad0-40cf-ad64-cbe234bb4b2c]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:50:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3402 ms Request ID: [2d2e1517-88c6-464c-907e-1fb25bc34955]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:52:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 996 ms Request ID: [e46c007f-4e63-4ae8-b3ef-df26cf8fccbd]
+
+Started GET /api/v1/products/user/1 for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:52:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [717a46c3-cb9a-46a2-9a25-516480000653]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:53:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 4252 ms Request ID: [9d8bf19a-fc06-46b7-a2c2-49b32144c14f]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:54:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 993 ms Request ID: [3422da4c-cbfb-49b5-b6f9-58a42f519d0d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:55:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 948 ms Request ID: [7b3be4e4-265f-4c53-937e-606562dd2c39]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:55:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1007 ms Request ID: [89863a3c-b398-4551-a1bb-74fc3e24696b]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:56:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1046 ms Request ID: [4efa344a-f865-4b99-b212-277cc783e58a]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:56:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1108 ms Request ID: [d68bd00d-b854-4173-a03a-a464169cc565]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:57:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 2124 ms Request ID: [d5257932-a325-4414-8b3d-f0439a603603]
+
+Started GET /api/v1/products/like for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:58:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 993 ms Request ID: [928bc512-ceca-404e-9db5-c3e726e079dc]
+
+Started GET /api/v1/ for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:59:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [b2fa0683-5781-4218-9827-738693687c53]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Mon Apr 08 2024 23:59:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 994 ms Request ID: [a690047b-9b3e-4703-8cf3-6aa254608c60]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:00:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1037 ms Request ID: [2e9ebebb-5cbe-4e40-8094-4dda46086c60]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:05:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4359 ms Request ID: [355ac29d-30c9-484e-88af-e0281e74c0b2]
+
+Started GET /api/v1/products/user/1 for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:05:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [19bfaee4-90de-4c17-9d22-2844a711240b]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:06:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 962 ms Request ID: [cc6ce447-52ab-4f1b-af72-c7c67b34075c]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:08:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1049 ms Request ID: [1f908f6f-92a6-4285-a67f-7afddb99b5df]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:08:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3180 ms Request ID: [57e324cf-7baa-4e6e-8817-edf2e7c37059]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:09:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1031 ms Request ID: [fc2e402a-8949-422b-bf84-4be6990e2e23]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:09:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 974 ms Request ID: [1119cb9b-b025-4d4c-ae56-3977dd0e0c1b]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:11:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 975 ms Request ID: [c40a0f18-c9e9-4193-958e-44ee751d1178]
+
+Started GET /api/v1/products/destination for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:11:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3240 ms Request ID: [b6027f9e-9508-4a2c-ba07-72b2b34e3f77]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:12:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 946 ms Request ID: [3b54ef5b-ac33-46b6-8dae-c4eb86154994]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:12:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 943 ms Request ID: [ca7bd03a-d0d8-41c4-8089-ab20b547841d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:13:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 4211 ms Request ID: [804bc820-e095-414b-ba0c-8c553625e7c8]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:14:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1023 ms Request ID: [5a16b53f-2213-426b-8dfb-1cd1697f2ddf]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:16:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 957 ms Request ID: [d250f01b-c518-4ba8-bc89-29b20887e72e]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:17:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 996 ms Request ID: [bd16eb24-2b49-4ff0-89e7-699e70e4bf37]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:21:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 964 ms Request ID: [4b206a16-bedc-46ce-8022-97d41257d9a9]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:23:45 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1222 ms Request ID: [b450085a-5d3b-41d0-8259-7aaa8d9b821b]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:23:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 940 ms Request ID: [a376c9c2-2203-4001-bbbd-6374fa292dd5]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:25:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1055 ms Request ID: [31b5e16b-626f-4694-b6e0-8ddb9a14af51]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:26:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 992 ms Request ID: [9d28dfbd-0bb8-4e58-831e-e27076e211c6]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:26:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1001 ms Request ID: [bf0cd670-aede-48b5-b70a-8b17d1140480]
+
+Started GET /api/v1/products/category/3 for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:26:42 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/category/2 for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:27:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:28:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 987 ms Request ID: [318d233d-4270-45dc-946c-90e32378dfb2]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:36:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 3190 ms Request ID: [08cabe90-ec3f-44b9-96cd-652dd3be0f36]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:36:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 991 ms Request ID: [f18810c1-803f-4e21-871c-3944da3f89fc]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:37:13 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 995 ms Request ID: [bccd6887-d851-45d5-81b5-1278dc995863]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:38:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 994 ms Request ID: [18851557-7f4d-4527-abcc-3caea8fda549]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:38:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 958 ms Request ID: [89acaf59-bdc3-469a-92f7-8f3e96b390e7]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:39:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 946 ms Request ID: [6fa5f496-ef30-4995-bd81-e9d544b2e132]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:39:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 962 ms Request ID: [a488e4e2-7b9c-4c1c-9914-e699d66f1802]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:40:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 952 ms Request ID: [c6e066a2-0bd7-4792-997c-f6521046e19f]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:41:18 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1005 ms Request ID: [fdf6d9ec-7f82-4b8f-87c6-60fe6831446e]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:41:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 973 ms Request ID: [2a6076a0-7efc-4819-81df-f215b97dd4db]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:43:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1002 ms Request ID: [20a5c431-7e1b-449b-8996-d94df690c2ff]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:51:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 960 ms Request ID: [a2391122-ebf5-47a1-ac2f-930904469bfd]
+
+Started GET /api/v1/product/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:51:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [a37afdfe-2e42-4014-a816-3456cfe1a12b]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:53:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1963 ms Request ID: [0e553497-5460-4e16-9506-ad9e1fecc2f2]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:53:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1007 ms Request ID: [173a005c-67ae-4452-8098-59a96ce30699]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:54:23 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 957 ms Request ID: [6cac9a14-044d-4035-aaa6-f60d6d2d4508]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:54:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 957 ms Request ID: [de7c96ca-abef-4989-94a0-e7e4eab3f8b3]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:56:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 1085 ms Request ID: [133bcd4b-3a4b-4263-8717-fa8b8e3b8419]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:56:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 986 ms Request ID: [4b1987d6-1009-43ce-b08f-e91f7c6ce958]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 00:57:48 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 3002 ms Request ID: [d1793e22-9948-44a2-9d6b-2aee891fcf59]
+
+Started GET /api/v1/products/text for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 07:19:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 961 ms Request ID: [94928816-1f9e-47c1-9e83-f91bbe077e87]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 07:20:34 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1024 ms Request ID: [1532d41e-9154-4ce6-b3c9-3fb84231a355]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 07:22:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1036 ms Request ID: [a720616c-b9f0-4470-9a9d-1247de766c0d]
+
+Started GET /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:41:46 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 1532 ms Request ID: [a255c2cb-6bed-4cde-be05-86f1f24e6a7f]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:42:04 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:42:24 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:43:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:46:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:48:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started GET /api/v1/category for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:49:52 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 1547 ms Request ID: [79d750de-d148-41db-9b29-613a02bd4262]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:50:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 445 ms Request ID: [ed67a3b9-48f3-4b56-a90a-8e6801ea3ad9]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:50:10 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:51:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1413 ms Request ID: [b22f3d3b-33ca-48a9-b372-6a47fac280b3]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:52:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1372 ms Request ID: [a36cdb15-4b72-4844-bd8c-6c584eba9c2b]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:52:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"lalaaa"}
+Completed: 200 message:  Time response: 433 ms Request ID: [f4235676-1189-4b0b-8a96-b24b65dca6e1]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:52:16 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":""}
+Completed: 200 message:  Time response: 298 ms Request ID: [5becaf90-f253-4471-8783-2e893137f784]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:52:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":""}
+Completed: 200 message:  Time response: 1587 ms Request ID: [0bd384e9-1ceb-4c21-a7fa-c8031833e88d]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:53:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":""}
+Completed: 200 message:  Time response: 1686 ms Request ID: [c963c788-bd50-481b-a80f-49ae3d15fdd7]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:54:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":""}
+Completed: 200 message:  Time response: 1414 ms Request ID: [b5a92e1b-7c89-4374-a269-5d0833eb9bb6]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:54:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 2998 ms Request ID: [50065b9d-0ee1-4a91-ab83-977b6bb6f6c0]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 16:57:38 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1607 ms Request ID: [2c5cd285-3791-4f70-9617-3f3da6fe73d9]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:18:20 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1048 ms Request ID: [a8375c09-ba3d-4547-83e7-062a5908ca3a]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:19:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1034 ms Request ID: [e6a6270d-b7af-4425-8d3e-30e8e38c489a]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:20:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1041 ms Request ID: [f6e1e0b5-3822-4cae-beb7-9d233cb49761]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:22:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 993 ms Request ID: [230e9277-21ff-4409-9587-3fcac032e329]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:22:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 998 ms Request ID: [86d62c19-13d4-45c2-8093-34e7fb4026b8]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:22:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 982 ms Request ID: [54422d66-263b-415d-89a5-8bbac1765cd0]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:23:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1043 ms Request ID: [d451ddcf-0ddf-447b-a4f0-fbc4177c4c0d]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:23:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1043 ms Request ID: [6dee5935-8109-46c5-b2dc-91b833a3a3e5]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:25:50 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 2596 ms Request ID: [b48369df-a16f-429d-9fc4-4db6e10b60f7]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:27:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1026 ms Request ID: [6c65f46d-8e6a-428d-a22e-08adfe77f7f6]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:27:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4363 ms Request ID: [a91aef86-2dee-4ba3-b1ff-2e5edf2c3821]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:28:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 993 ms Request ID: [af67ede9-a7c7-4743-9d3b-7a5303e9d3be]
+
+Started GET /api/v1/products for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:29:17 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 954 ms Request ID: [afa4177d-5404-47bb-becc-1c7b34d58f0e]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:29:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1023 ms Request ID: [a246aed0-d60d-47eb-a1b9-8141082402ad]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:30:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:31:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 1027 ms Request ID: [5c6b5a53-c087-4ec1-ad84-e4f68661aed6]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:31:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 400 message:  Time response: 990 ms Request ID: [7e9f96e1-1596-4a86-8a0f-099fd5345f1e]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:31:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 984 ms Request ID: [46fe2c02-13dc-4763-993d-463719d855c0]
+
+Started POST /api/v1/products/description for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:35:35 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"description":"la"}
+Completed: 200 message:  Time response: 2619 ms Request ID: [dd2d585d-58b7-42ed-a4e2-6ba317f948d8]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:40:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 22 ms Request ID: [15b3a859-5152-43d8-a785-ed1068fb508c]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Tue Apr 09 2024 18:40:31 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 3 ms Request ID: [120bd625-e86d-4826-8c89-d4f1920f5891]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:01:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 4414 ms Request ID: [a8c8ebce-ac6f-4308-b601-c25a629216e3]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:01:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 197 ms Request ID: [2220f0db-44b5-4349-b78b-c2c490b8bb0a]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:01:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [d54ce0b3-d5a1-4c50-8e9f-24eb7953b2c1]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:01:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 194 ms Request ID: [fd8723b5-175f-48c0-a416-9460dc4c2970]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Tue Apr 09 2024 19:02:08 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:06:56 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 947 ms Request ID: [8801cfce-1a45-4864-8947-4ceefdf8a3a0]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:06:57 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 188 ms Request ID: [c7deb63b-84ff-44ca-8805-41692c4fde42]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:06:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 189 ms Request ID: [87abaf39-2c34-45ed-9065-14a3681faeb4]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:06:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 204 ms Request ID: [09cad594-e907-4e4c-942f-9419f1ab2b69]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Tue Apr 09 2024 19:06:59 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:18:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/category/2 for :: ::1 at Tue Apr 09 2024 19:18:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Tue Apr 09 2024 19:18:28 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:18:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products/category/2 for :: ::1 at Tue Apr 09 2024 19:18:53 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 941 ms Request ID: [9fa489e9-70fb-4cfd-9dad-d14e52f057a1]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:18:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 988 ms Request ID: [067b7a44-247f-4c7f-8a7f-99ba47f87b0a]
+
+Started GET /api/v1/products/category/2 for :: ::1 at Tue Apr 09 2024 19:18:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 185 ms Request ID: [1a881cf2-c02a-4f8f-9147-a80df8ab8e72]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:18:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 238 ms Request ID: [b0129d00-8b25-40c4-a9f8-14f826216dee]
+
+Completed: 304 message:  Time response: 187 ms Request ID: [9b55afcf-d2fc-45b5-9300-4c8721efd729]
+
+Started GET /api/v1/category for :: ::1 at Tue Apr 09 2024 19:18:54 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 185 ms Request ID: [9e126dc4-0827-4dc7-ae7c-78dbf8556caa]

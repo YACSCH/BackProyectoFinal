@@ -1,0 +1,58 @@
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 10 ms Request ID: [f4226ed8-c59b-48cd-b6f0-2037621c908c]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:41:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [6513a2ba-0272-4a61-8dd4-62a884f9818b]
+
+Completed: 304 message:  Time response: 1276 ms Request ID: [e899e3a9-36f6-491e-ab2f-43a550d052d5]
+
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:41:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 298 ms Request ID: [cf0c9295-67cb-49ce-b325-2d9d03e097aa]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:41:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:41:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [8b454d7f-bb5c-4137-ae66-4552dd066c2b]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:41:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [e6979c27-9981-4752-8024-27c537db899b]
+
+Completed: 304 message:  Time response: 1522 ms Request ID: [c6958b66-15fd-4998-af39-ee4bc4d7b5e5]
+
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:41:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 236 ms Request ID: [4f0f3a47-648a-4781-9201-25a1157673f0]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:45:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:45:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [58ef680a-5fd9-4828-8e18-c6e521a15f8d]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:45:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [c4b339b1-2e99-4abf-8694-c15bfcf5037c]
+
+Completed: 304 message:  Time response: 1270 ms Request ID: [47d4afd9-9086-4c4e-b96e-da36b36e355f]
+
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:45:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 226 ms Request ID: [e58c17a3-78fd-4b5d-89ae-4ebe089f9a04]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:46:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/products for :: ::1 at Fri Mar 29 2024 22:46:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [1e997628-5c12-47ac-b13c-8a91e50aca3a]
+
+Started GET /api/v1/carts for :: ::1 at Fri Mar 29 2024 22:46:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [fb56c839-7cdf-4933-982b-082029acdf27]
