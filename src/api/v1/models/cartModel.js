@@ -13,10 +13,11 @@ const getCarts = async () => {
 
 const getCartsByUser = async (id_user) => {
   const SQLquery = {
-    text: `SELECT c.cart_id, c.user_id, ci.detail_id, ci.product_id, ci.quantity, ci.price
+    text: `SELECT c.cart_id, c.user_id, ci.detail_id, ci.product_id, ci.quantity, ci.price, p.image_url, p.name
             FROM cart c
             INNER JOIN cart_items ci ON c.cart_id = ci.cart_id
-           WHERE user_id = $1 AND status='Ingresada'`,
+            INNER JOIN products p ON c.product_id = p.product_id
+           WHERE c.user_id = $1 AND c.status='Ingresada'`,
     values: [id_user],
   };
 
