@@ -47,13 +47,13 @@ const closeCartId = async ( cart_id ) => {
   const response = await pool.query(SQLquery);
   return response.rows[0];
 };
-const deleteCartItem = async ( cartId, DetailId ) => {
+const deleteCartItem = async ( cartId, detailId ) => {
   const SQLquery = {
     text: `DELETE FROM cart_Items 
            WHERE cart_id = $1
            AND detail_id = $2
            RETURNING *`,
-    values: [cart_id],
+    values: [cartId, detailId],
   };
   const response = await pool.query(SQLquery);
   return response.rows[0];
