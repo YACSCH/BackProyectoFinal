@@ -7,7 +7,8 @@ import {
         updateCartDecrease,
         getAllCart,
         getAllCartbyUser,
-        closeCart
+        closeCart,
+        deleteCartItems
              } from "../../src/api/v1/controllers/cartController.js";
 import { getActivity } from "../../middlewares/reports.js";
 import { isLogin } from "../../middlewares/isLogin.js";
@@ -21,6 +22,7 @@ router.post("/cart/", isLogin, getActivity, addCartUser);
 router.put("/cart/increase/:product_id", isLogin, getActivity, updateCartIncrease);
 router.put("/cart/decrease/:product_id", isLogin, getActivity, updateCartDecrease);
 router.delete("/cart/closeCart/:id_user", isLogin, getActivity, closeCart);
+router.delete("/cart/items/", isLogin, getActivity, deleteCartItems)
 
 
 

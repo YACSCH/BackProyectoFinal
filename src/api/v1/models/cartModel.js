@@ -47,6 +47,17 @@ const closeCartId = async ( cart_id ) => {
   const response = await pool.query(SQLquery);
   return response.rows[0];
 };
+const deleteCartItem = async ( cartId, DetailId ) => {
+  const SQLquery = {
+    text: `DELETE FROM cart_Items 
+           WHERE cart_id = $1
+           AND detail_id = $2
+           RETURNING *`,
+    values: [cart_id],
+  };
+  const response = await pool.query(SQLquery);
+  return response.rows[0];
+};
 
 
 const createCartItems = async ( cart_id, product_id, quantity, price ) => {
@@ -114,4 +125,5 @@ export {
   createCartItems,
   incrementCartItems,
   decrementCartItems,
+  deleteCartItem,
 };

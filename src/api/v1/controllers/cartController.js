@@ -5,7 +5,8 @@ import { getCartsByUser,
             decrementCartItems,
             getCarts,
             closeCartId, 
-            getAllCartsByUser
+            getAllCartsByUser,
+            deleteCartItem
         } from "../models/cartModel.js";
 import { handleError } from "../utils/utils.js";
 
@@ -129,6 +130,17 @@ const getAllCartbyUser = async (req, res) =>{
     }
 
 }
+
+const deleteCartItems = async (req, res) => {
+    const { detailId, cartId } = req.body;
+    try {
+        const response = await deleteCartItem(cartId, detailId);
+        return res.status(201).json({ cart: response })
+    } catch (err) {
+        const errorFound = handleError(err.code) || [{ status: 500, message: 'Error interno del servidor' }];
+        return res.status(errorFound[0]?.status).json({ error: errorFound[0]?.message });   
+    }
+}
 export {
     getCartUser,
     addCartUser,
@@ -136,5 +148,6 @@ export {
     updateCartDecrease,
     getAllCart,
     getAllCartbyUser,
-    closeCart
+    closeCart,
+    deleteCartItems
 }
