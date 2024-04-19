@@ -4,7 +4,8 @@ import bcrypt from "bcryptjs";
 const getUser = async () => {
   const SQLquery = {
     text: `SELECT user_id, username, rut, birth_date, email, phone, password, role, status 
-          FROM users`,
+          FROM users
+          ORDER BY user_id DESC`,
   };
 
   const response = await pool.query(SQLquery);
