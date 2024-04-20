@@ -132,9 +132,9 @@ const getAllCartbyUser = async (req, res) =>{
 }
 
 const deleteCartItems = async (req, res) => {
-    const { detail_id, cart_id } = req.body;
+    const { cart_id, detail_id } = req.body;
     try {
-      const response = await deleteCartItem(detail_id, cart_id);
+      const response = await deleteCartItem(cart_id, detail_id);
       if (response) {
         return res.status(200).json({ message: 'Elemento eliminado correctamente', deletedItem: response });
       } else {
