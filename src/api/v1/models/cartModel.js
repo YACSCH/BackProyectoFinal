@@ -49,7 +49,7 @@ const closeCartId = async ( cart_id ) => {
 };
 const deleteCartItem = async ( cartId, detailId ) => {
   const SQLquery = {
-    text: `DELETE FROM cart_Items 
+    text: `DELETE FROM cart_items 
            WHERE cart_id = $1
            AND detail_id = $2
            RETURNING *`,
