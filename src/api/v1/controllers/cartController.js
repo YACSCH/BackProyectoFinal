@@ -134,11 +134,15 @@ const getAllCartbyUser = async (req, res) =>{
 const deleteCartItems = async (req, res) => {
     const { detail_id, cart_id } = req.body;
     try {
-        const response = await deleteCartItem( detail_id, cart_id );
-        return res.status(201).json({ cart: response })
+      const response = await deleteCartItem(detail_id, cart_id);
+      if (response) {
+        return res.status(200).json({ message: 'Elemento eliminado correctamente', deletedItem: response });
+      } else {
+        return res.status(404).json({ message: 'El elemento no fue encontrado en el carrito' });
+      }
     } catch (err) {
-        const errorFound = handleError(err.code) || [{ status: 500, message: 'Error interno del servidor' }];
-        return res.status(errorFound[0]?.status).json({ error: errorFound[0]?.message });   
+      console.error('Error al eliminar elemento del carrito:', err);
+      return res.status(500).json({ error: 'Error interno del servidor' });
     }
 }
 export {
