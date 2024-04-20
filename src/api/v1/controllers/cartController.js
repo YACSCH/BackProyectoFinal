@@ -132,9 +132,9 @@ const getAllCartbyUser = async (req, res) =>{
 }
 
 const deleteCartItems = async (req, res) => {
-    const { detailId, cartId } = req.body;
+    const { detail_id, cart_id } = req.body;
     try {
-        const response = await deleteCartItem(cartId, detailId);
+        const response = await deleteCartItem( detail_id, cart_id );
         return res.status(201).json({ cart: response })
     } catch (err) {
         const errorFound = handleError(err.code) || [{ status: 500, message: 'Error interno del servidor' }];
