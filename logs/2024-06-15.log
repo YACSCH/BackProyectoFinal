@@ -1,0 +1,44 @@
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:25:41 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"desafio@latam.com","password":"12345678"}
+Completed: 400 message:  Time response: 787 ms Request ID: [4bda6f95-0b48-4f5b-b091-e88b4e05cd62]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:25:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"desafio@latam.com","password":"12345678"}
+Completed: 400 message:  Time response: 182 ms Request ID: [bb409d14-6de1-49c5-9eb7-36f4894cba81]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:26:32 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"username":"desafioLatam","rut":"1-9","birth":"09-11-2001","email":"desafio@latam.com","phone":"+56982288959","password":"12345678","role":"admin","status":"A"}
+Completed: 201 message:  Time response: 3270 ms Request ID: [332df7e2-fbd3-4e40-8631-6799a0d6f965]
+
+Started POST /api/v1/login for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:26:43 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"email":"desafio@latam.com","password":"12345678"}
+Completed: 200 message:  Time response: 341 ms Request ID: [d6508c1c-d06d-4802-8861-1f6e7b8c84a6]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:27:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [ff575d05-3bfe-49bf-8298-d2563c8a9da7]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:03 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [36a0ee02-41c9-4f67-a39c-06e002d96f5b]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:05 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 1 ms Request ID: [e2ae4701-2f23-4154-a5e8-159183447f8f]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:06 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [2182e359-7674-4ee9-9c64-f22e95ad76e2]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [b9c5c029-6e46-4c78-9ef4-9d6433cf95cc]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 2 ms Request ID: [4ba49d88-11ef-4f14-b502-78b37bb7335f]
+
+Started GET /api/v1/users for :: ::ffff:127.0.0.1 at Fri Jun 14 2024 20:28:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 2019 ms Request ID: [772df307-44a5-4f6c-912a-b31bea1cc972]

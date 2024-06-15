@@ -91,9 +91,7 @@ CREATE TABLE Cart (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     status VARCHAR(50) NOT NULL
 );
-INSERT INTO ShoppingCartHeader (user_id, status)
- VALUES (2, 'Abierto'),
- (1, 'Abierto');
+
 
 -- Crear la tabla de Detalles de Carrito de compras
 CREATE TABLE Cart_Items (
